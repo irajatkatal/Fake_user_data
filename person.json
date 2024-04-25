@@ -258,5 +258,396 @@
                 "profession": "Musician"
             }
         ]
+    },
+    {
+        "firstName": "James",
+        "lastName": "Brown",
+        "fullName": "James Brown",
+        "age": 35,
+        "cars": [
+            {
+                "name": "BMW",
+                "color": "Black",
+                "model": "X5",
+                "year": 2019
+            }
+        ],
+        "likeToWatch": {
+            "favMovies": ["The Shawshank Redemption", "The Dark Knight", "Inception"],
+            "favSongs": ["Billie Jean", "I Want to Hold Your Hand", "Let It Be"],
+            "favWebSeries": ["Breaking Bad", "Stranger Things", "Black Mirror"]
+        },
+        "address": {
+            "street": "555 Oak Avenue",
+            "city": "Cityville",
+            "state": "CA",
+            "zip": "54321"
+        },
+        "hobbies": ["Golfing", "Cooking", "Photography"],
+        "friends": [
+            {
+                "name": "Karen",
+                "age": 33,
+                "profession": "Writer"
+            },
+            {
+                "name": "Tom",
+                "age": 36,
+                "profession": "Actor"
+            }
+        ]
+    },
+    {
+        "firstName": "Linda",
+        "lastName": "Davis",
+        "fullName": "Linda Davis",
+        "age": 28,
+        "cars": [],
+        "likeToWatch": {
+            "favMovies": ["The Godfather", "Forrest Gump", "The Silence of the Lambs"],
+            "favSongs": ["Yesterday", "Let It Be", "Hey Jude"],
+            "favWebSeries": ["Friends", "The Office", "The Crown"]
+        },
+        "address": {
+            "street": "777 Maple Street",
+            "city": "Smalltown",
+            "state": "TX",
+            "zip": "67890"
+        },
+        "hobbies": ["Reading", "Painting", "Hiking"],
+        "friends": [
+            {
+                "name": "Kevin",
+                "age": 27,
+                "profession": "Chef"
+            },
+            {
+                "name": "Sarah",
+                "age": 26,
+                "profession": "Journalist"
+            }
+        ]
+    },
+    {
+        "firstName": "Chris",
+        "lastName": "Anderson",
+        "fullName": "Chris Anderson",
+        "age": 30,
+        "cars": [
+            {
+                "name": "Ford",
+                "color": "Blue",
+                "model": "F-150",
+                "year": 2020
+            }
+        ],
+        "likeToWatch": {
+            "favMovies": ["The Matrix", "Pulp Fiction", "Fight Club"],
+            "favSongs": ["Bohemian Rhapsody", "Imagine", "Hotel California"],
+            "favWebSeries": ["Breaking Bad", "Game of Thrones", "The Mandalorian"]
+        },
+        "address": {
+            "street": "888 Pine Street",
+            "city": "Metroville",
+            "state": "IL",
+            "zip": "24680"
+        },
+        "hobbies": ["Gaming", "Traveling", "Cooking"],
+        "friends": [
+            {
+                "name": "Rachel",
+                "age": 29,
+                "profession": "Designer"
+            },
+            {
+                "name": "Steven",
+                "age": 31,
+                "profession": "Developer"
+            }
+        ]
+    },
+    {
+        "firstName": "Amanda",
+        "lastName": "Clark",
+        "fullName": "Amanda Clark",
+        "age": 25,
+        "cars": [
+            {
+                "name": "Honda",
+                "color": "White",
+                "model": "Accord",
+                "year": 2021
+            }
+        ],
+        "likeToWatch": {
+            "favMovies": ["The Avengers", "Titanic", "Avatar"],
+            "favSongs": ["Shape of You", "Dance Monkey", "Blinding Lights"],
+            "favWebSeries": ["Friends", "The Office", "Stranger Things"]
+        },
+        "address": {
+            "street": "999 Cedar Street",
+            "city": "Uptown",
+            "state": "WA",
+            "zip": "98765"
+        },
+        "hobbies": ["Yoga", "Dancing", "Reading"],
+        "friends": [
+            {
+                "name": "Eric",
+                "age": 26,
+                "profession": "Student"
+            },
+            {
+                "name": "Olivia",
+                "age": 24,
+                "profession": "Artist"
+            }
+        ]
+    },
+    {
+        "firstName": "Daniel",
+        "lastName": "Evans",
+        "fullName": "Daniel Evans",
+        "age": 33,
+        "cars": [],
+        "likeToWatch": {
+            "favMovies": ["Inception", "The Dark Knight", "The Shawshank Redemption"],
+            "favSongs": ["Bohemian Rhapsody", "Imagine", "Stairway to Heaven"],
+            "favWebSeries": ["Breaking Bad", "Game of Thrones", "Stranger Things"]
+        },
+        "address": {
+            "street": "101 Elm Street",
+            "city": "Downtown",
+            "state": "OR",
+            "zip": "56473"
+        },
+        "hobbies": ["Playing Guitar", "Hiking", "Photography"],
+        "friends": [
+            {
+                "name": "Sophia",
+                "age": 32,
+                "profession": "Doctor"
+            },
+            {
+                "name": "Matthew",
+                "age": 34,
+                "profession": "Engineer"
+            }
+        ]
+    },
+    {
+        "firstName": "Emily",
+        "lastName": "Taylor",
+        "fullName": "Emily Taylor",
+        "age": 28,
+        "cars": [
+            {
+                "name": "Toyota",
+                "color": "Silver",
+                "model": "Camry",
+                "year": 2017
+            }
+        ],
+        "likeToWatch": {
+            "favMovies": ["The Godfather", "Forrest Gump", "The Dark Knight"],
+            "favSongs": ["Yesterday", "Let It Be", "Hey Jude"],
+            "favWebSeries": ["Breaking Bad", "The Office", "Friends"]
+        },
+        "address": {
+            "street": "111 Maple Street",
+            "city": "Uptown",
+            "state": "WA",
+            "zip": "98765"
+        },
+        "hobbies": ["Drawing", "Traveling", "Reading"],
+        "friends": [
+            {
+                "name": "Jacob",
+                "age": 30,
+                "profession": "Architect"
+            },
+            {
+                "name": "Mia",
+                "age": 27,
+                "profession": "Artist"
+            }
+        ]
+    },
+    {
+        "firstName": "William",
+        "lastName": "Anderson",
+        "fullName": "William Anderson",
+        "age": 35,
+        "cars": [
+            {
+                "name": "Chevrolet",
+                "color": "Red",
+                "model": "Camaro",
+                "year": 2020
+            }
+        ],
+        "likeToWatch": {
+            "favMovies": ["The Shawshank Redemption", "The Godfather", "The Dark Knight"],
+            "favSongs": ["Bohemian Rhapsody", "Imagine", "Hotel California"],
+            "favWebSeries": ["Breaking Bad", "Game of Thrones", "Stranger Things"]
+        },
+        "address": {
+            "street": "222 Oak Street",
+            "city": "Downtown",
+            "state": "OR",
+            "zip": "56473"
+        },
+        "hobbies": ["Golfing", "Cooking", "Photography"],
+        "friends": [
+            {
+                "name": "Olivia",
+                "age": 33,
+                "profession": "Teacher"
+            },
+            {
+                "name": "Noah",
+                "age": 34,
+                "profession": "Engineer"
+            }
+        ]
+    },
+    {
+        "firstName": "Sophia",
+        "lastName": "Thomas",
+        "fullName": "Sophia Thomas",
+        "age": 30,
+        "cars": [
+            {
+                "name": "Honda",
+                "color": "Blue",
+                "model": "CR-V",
+                "year": 2019
+            }
+        ],
+        "likeToWatch": {
+            "favMovies": ["The Avengers", "Titanic", "Avatar"],
+            "favSongs": ["Shape of You", "Dance Monkey", "Blinding Lights"],
+            "favWebSeries": ["Friends", "The Office", "Stranger Things"]
+        },
+        "address": {
+            "street": "333 Pine Street",
+            "city": "Cityville",
+            "state": "CA",
+            "zip": "54321"
+        },
+        "hobbies": ["Yoga", "Reading", "Traveling"],
+        "friends": [
+            {
+                "name": "Ethan",
+                "age": 32,
+                "profession": "Doctor"
+            },
+            {
+                "name": "Ava",
+                "age": 29,
+                "profession": "Lawyer"
+            }
+        ]
+    },
+    {
+        "firstName": "Oliver",
+        "lastName": "Martinez",
+        "fullName": "Oliver Martinez",
+        "age": 33,
+        "cars": [
+            {
+                "name": "Tesla",
+                "color": "Black",
+                "model": "Model 3",
+                "year": 2021
+            }
+        ],
+        "likeToWatch": {
+            "favMovies": ["The Shawshank Redemption", "The Godfather", "The Dark Knight"],
+            "favSongs": ["Bohemian Rhapsody", "Imagine", "Stairway to Heaven"],
+            "favWebSeries": ["Breaking Bad", "Game of Thrones", "Stranger Things"]
+        },
+        "address": {
+            "street": "444 Walnut Street",
+            "city": "Hometown",
+            "state": "MI",
+            "zip": "10101"
+        },
+        "hobbies": ["Gaming", "Hiking", "Cooking"],
+        "friends": [
+            {
+                "name": "Isabella",
+                "age": 34,
+                "profession": "Artist"
+            },
+            {
+                "name": "James",
+                "age": 32,
+                "profession": "Musician"
+            }
+        ]
+    },
+    {
+        "firstName": "Charlotte",
+        "lastName": "Garcia",
+        "fullName": "Charlotte Garcia",
+        "age": 28,
+        "cars": [],
+        "likeToWatch": {
+            "favMovies": ["Inception", "The Dark Knight", "The Shawshank Redemption"],
+            "favSongs": ["Bohemian Rhapsody", "Imagine", "Stairway to Heaven"],
+            "favWebSeries": ["Breaking Bad", "Game of Thrones", "Stranger Things"]
+        },
+        "address": {
+            "street": "555 Cedar Street",
+            "city": "Beachtown",
+            "state": "CA",
+            "zip": "54321"
+        },
+        "hobbies": ["Dancing", "Painting", "Traveling"],
+        "friends": [
+            {
+                "name": "Mason",
+                "age": 27,
+                "profession": "Chef"
+            },
+            {
+                "name": "Amelia",
+                "age": 26,
+                "profession": "Designer"
+            }
+        ]
+    },
+    {
+        "firstName": "Lucas",
+        "lastName": "Lopez",
+        "fullName": "Lucas Lopez",
+        "age": 32,
+        "cars": [],
+        "likeToWatch": {
+            "favMovies": ["The Godfather", "The Godfather Part II", "The Godfather Part III"],
+            "favSongs": ["Bohemian Rhapsody", "Imagine", "Hotel California"],
+            "favWebSeries": ["Breaking Bad", "Game of Thrones", "Stranger Things"]
+        },
+        "address": {
+            "street": "666 Pine Street",
+            "city": "Parkville",
+            "state": "MD",
+            "zip": "24680"
+        },
+        "hobbies": ["Golfing", "Reading", "Traveling"],
+        "friends": [
+            {
+                "name": "Ella",
+                "age": 31,
+                "profession": "Teacher"
+            },
+            {
+                "name": "Jackson",
+                "age": 33,
+                "profession": "Engineer"
+            }
+        ]
     }
+    
 ]
