@@ -1,0 +1,262 @@
+[
+    {
+        "firstName": "John",
+        "lastName": "Doe",
+        "fullName": "John Doe",
+        "age": 30,
+        "cars": [
+            {
+                "name": "Mustang",
+                "color": "Red",
+                "model": "GT",
+                "year": 2020
+            },
+            {
+                "name": "Chevrolet",
+                "color": "Blue",
+                "model": "Camaro",
+                "year": 2018
+            }
+        ],
+        "likeToWatch": {
+            "favMovies": [
+                "The Godfather",
+                "Inception",
+                "The Shawshank Redemption"
+            ],
+            "favSongs": [
+                "Bohemian Rhapsody",
+                "Hotel California",
+                "Stairway to Heaven"
+            ],
+            "favWebSeries": [
+                "Breaking Bad",
+                "Game of Thrones",
+                "Stranger Things"
+            ]
+        },
+        "address": {
+            "street": "123 Main Street",
+            "city": "Anytown",
+            "state": "NY",
+            "zip": "12345"
+        },
+        "hobbies": ["Reading", "Traveling", "Photography"],
+        "friends": [
+            {
+                "name": "Alice",
+                "age": 28,
+                "profession": "Engineer"
+            },
+            {
+                "name": "Bob",
+                "age": 32,
+                "profession": "Teacher"
+            }
+        ]
+    },
+
+    {
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "fullName": "Jane Smith",
+        "age": 25,
+        "cars": [
+            {
+                "name": "Toyota",
+                "color": "Black",
+                "model": "Corolla",
+                "year": 2019
+            }
+        ],
+        "likeToWatch": {
+            "favMovies": ["The Matrix", "Pulp Fiction", "Fight Club"],
+            "favSongs": ["Imagine", "Hey Jude", "Smells Like Teen Spirit"],
+            "favWebSeries": [
+                "The Mandalorian",
+                "Black Mirror",
+                "Stranger Things"
+            ]
+        },
+        "address": {
+            "street": "456 Elm Street",
+            "city": "Othertown",
+            "state": "CA",
+            "zip": "54321"
+        },
+        "hobbies": ["Painting", "Hiking", "Cooking"],
+        "friends": [
+            {
+                "name": "Emily",
+                "age": 26,
+                "profession": "Doctor"
+            },
+            {
+                "name": "David",
+                "age": 27,
+                "profession": "Lawyer"
+            }
+        ]
+    },
+    {
+        "firstName": "Alice",
+        "lastName": "Johnson",
+        "fullName": "Alice Johnson",
+        "age": 35,
+        "cars": [],
+        "likeToWatch": {
+            "favMovies": [
+                "Forrest Gump",
+                "The Dark Knight",
+                "The Silence of the Lambs"
+            ],
+            "favSongs": ["Yesterday", "Let It Be", "Hey Jude"],
+            "favWebSeries": ["Breaking Bad", "Sherlock", "The Crown"]
+        },
+        "address": {
+            "street": "789 Oak Street",
+            "city": "Smalltown",
+            "state": "TX",
+            "zip": "67890"
+        },
+        "hobbies": ["Gardening", "Yoga", "Cooking"],
+        "friends": [
+            {
+                "name": "Bob",
+                "age": 38,
+                "profession": "Artist"
+            },
+            {
+                "name": "Carol",
+                "age": 33,
+                "profession": "Nurse"
+            }
+        ]
+    },
+    {
+        "firstName": "Michael",
+        "lastName": "Lee",
+        "fullName": "Michael Lee",
+        "age": 22,
+        "cars": [
+            {
+                "name": "Honda",
+                "color": "Silver",
+                "model": "Civic",
+                "year": 2021
+            }
+        ],
+        "likeToWatch": {
+            "favMovies": ["The Avengers", "Titanic", "Avatar"],
+            "favSongs": ["Shape of You", "Dance Monkey", "Blinding Lights"],
+            "favWebSeries": ["Friends", "The Office", "Stranger Things"]
+        },
+        "address": {
+            "street": "222 Maple Street",
+            "city": "Uptown",
+            "state": "WA",
+            "zip": "98765"
+        },
+        "hobbies": ["Playing Guitar", "Video Games", "Running"],
+        "friends": [
+            {
+                "name": "Daniel",
+                "age": 24,
+                "profession": "Software Engineer"
+            },
+            {
+                "name": "Emma",
+                "age": 23,
+                "profession": "Student"
+            }
+        ]
+    },
+    {
+        "firstName": "Sarah",
+        "lastName": "Williams",
+        "fullName": "Sarah Williams",
+        "age": 40,
+        "cars": [
+            {
+                "name": "Ford",
+                "color": "White",
+                "model": "Escape",
+                "year": 2017
+            }
+        ],
+        "likeToWatch": {
+            "favMovies": [
+                "The Shawshank Redemption",
+                "The Green Mile",
+                "Forrest Gump"
+            ],
+            "favSongs": ["Hello", "Someone Like You", "Rolling in the Deep"],
+            "favWebSeries": [
+                "Breaking Bad",
+                "Stranger Things",
+                "The Mandalorian"
+            ]
+        },
+        "address": {
+            "street": "111 Cedar Street",
+            "city": "Metroville",
+            "state": "IL",
+            "zip": "24680"
+        },
+        "hobbies": ["Singing", "Dancing", "Cooking"],
+        "friends": [
+            {
+                "name": "Frank",
+                "age": 42,
+                "profession": "Engineer"
+            },
+            {
+                "name": "Grace",
+                "age": 39,
+                "profession": "Teacher"
+            }
+        ]
+    },
+    {
+        "firstName": "David",
+        "lastName": "Wilson",
+        "fullName": "David Wilson",
+        "age": 45,
+        "cars": [
+            {
+                "name": "Tesla",
+                "color": "Black",
+                "model": "Model S",
+                "year": 2022
+            }
+        ],
+        "likeToWatch": {
+            "favMovies": [
+                "The Godfather",
+                "The Godfather Part II",
+                "The Godfather Part III"
+            ],
+            "favSongs": ["Bohemian Rhapsody", "Imagine", "Hotel California"],
+            "favWebSeries": ["Breaking Bad", "Game of Thrones", "The Crown"]
+        },
+        "address": {
+            "street": "444 Walnut Street",
+            "city": "Hometown",
+            "state": "MI",
+            "zip": "10101"
+        },
+        "hobbies": ["Fishing", "Golfing", "Reading"],
+        "friends": [
+            {
+                "name": "Hannah",
+                "age": 44,
+                "profession": "Artist"
+            },
+            {
+                "name": "Ian",
+                "age": 43,
+                "profession": "Musician"
+            }
+        ]
+    }
+]
