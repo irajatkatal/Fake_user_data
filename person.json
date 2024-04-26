@@ -273,8 +273,16 @@
             }
         ],
         "likeToWatch": {
-            "favMovies": ["The Shawshank Redemption", "The Dark Knight", "Inception"],
-            "favSongs": ["Billie Jean", "I Want to Hold Your Hand", "Let It Be"],
+            "favMovies": [
+                "The Shawshank Redemption",
+                "The Dark Knight",
+                "Inception"
+            ],
+            "favSongs": [
+                "Billie Jean",
+                "I Want to Hold Your Hand",
+                "Let It Be"
+            ],
             "favWebSeries": ["Breaking Bad", "Stranger Things", "Black Mirror"]
         },
         "address": {
@@ -304,7 +312,11 @@
         "age": 28,
         "cars": [],
         "likeToWatch": {
-            "favMovies": ["The Godfather", "Forrest Gump", "The Silence of the Lambs"],
+            "favMovies": [
+                "The Godfather",
+                "Forrest Gump",
+                "The Silence of the Lambs"
+            ],
             "favSongs": ["Yesterday", "Let It Be", "Hey Jude"],
             "favWebSeries": ["Friends", "The Office", "The Crown"]
         },
@@ -344,7 +356,11 @@
         "likeToWatch": {
             "favMovies": ["The Matrix", "Pulp Fiction", "Fight Club"],
             "favSongs": ["Bohemian Rhapsody", "Imagine", "Hotel California"],
-            "favWebSeries": ["Breaking Bad", "Game of Thrones", "The Mandalorian"]
+            "favWebSeries": [
+                "Breaking Bad",
+                "Game of Thrones",
+                "The Mandalorian"
+            ]
         },
         "address": {
             "street": "888 Pine Street",
@@ -411,9 +427,17 @@
         "age": 33,
         "cars": [],
         "likeToWatch": {
-            "favMovies": ["Inception", "The Dark Knight", "The Shawshank Redemption"],
+            "favMovies": [
+                "Inception",
+                "The Dark Knight",
+                "The Shawshank Redemption"
+            ],
             "favSongs": ["Bohemian Rhapsody", "Imagine", "Stairway to Heaven"],
-            "favWebSeries": ["Breaking Bad", "Game of Thrones", "Stranger Things"]
+            "favWebSeries": [
+                "Breaking Bad",
+                "Game of Thrones",
+                "Stranger Things"
+            ]
         },
         "address": {
             "street": "101 Elm Street",
@@ -487,9 +511,17 @@
             }
         ],
         "likeToWatch": {
-            "favMovies": ["The Shawshank Redemption", "The Godfather", "The Dark Knight"],
+            "favMovies": [
+                "The Shawshank Redemption",
+                "The Godfather",
+                "The Dark Knight"
+            ],
             "favSongs": ["Bohemian Rhapsody", "Imagine", "Hotel California"],
-            "favWebSeries": ["Breaking Bad", "Game of Thrones", "Stranger Things"]
+            "favWebSeries": [
+                "Breaking Bad",
+                "Game of Thrones",
+                "Stranger Things"
+            ]
         },
         "address": {
             "street": "222 Oak Street",
@@ -563,9 +595,17 @@
             }
         ],
         "likeToWatch": {
-            "favMovies": ["The Shawshank Redemption", "The Godfather", "The Dark Knight"],
+            "favMovies": [
+                "The Shawshank Redemption",
+                "The Godfather",
+                "The Dark Knight"
+            ],
             "favSongs": ["Bohemian Rhapsody", "Imagine", "Stairway to Heaven"],
-            "favWebSeries": ["Breaking Bad", "Game of Thrones", "Stranger Things"]
+            "favWebSeries": [
+                "Breaking Bad",
+                "Game of Thrones",
+                "Stranger Things"
+            ]
         },
         "address": {
             "street": "444 Walnut Street",
@@ -594,9 +634,17 @@
         "age": 28,
         "cars": [],
         "likeToWatch": {
-            "favMovies": ["Inception", "The Dark Knight", "The Shawshank Redemption"],
+            "favMovies": [
+                "Inception",
+                "The Dark Knight",
+                "The Shawshank Redemption"
+            ],
             "favSongs": ["Bohemian Rhapsody", "Imagine", "Stairway to Heaven"],
-            "favWebSeries": ["Breaking Bad", "Game of Thrones", "Stranger Things"]
+            "favWebSeries": [
+                "Breaking Bad",
+                "Game of Thrones",
+                "Stranger Things"
+            ]
         },
         "address": {
             "street": "555 Cedar Street",
@@ -625,9 +673,17 @@
         "age": 32,
         "cars": [],
         "likeToWatch": {
-            "favMovies": ["The Godfather", "The Godfather Part II", "The Godfather Part III"],
+            "favMovies": [
+                "The Godfather",
+                "The Godfather Part II",
+                "The Godfather Part III"
+            ],
             "favSongs": ["Bohemian Rhapsody", "Imagine", "Hotel California"],
-            "favWebSeries": ["Breaking Bad", "Game of Thrones", "Stranger Things"]
+            "favWebSeries": [
+                "Breaking Bad",
+                "Game of Thrones",
+                "Stranger Things"
+            ]
         },
         "address": {
             "street": "666 Pine Street",
@@ -648,6 +704,337 @@
                 "profession": "Engineer"
             }
         ]
-    }
-    
+    },
+    {
+        "firstName": "Harper",
+        "lastName": "Adams",
+        "fullName": "Harper Adams",
+        "age": 29,
+        "cars": [
+            {
+                "name": "Ford",
+                "color": "White",
+                "model": "Explorer",
+                "year": 2020
+            }
+        ],
+        "likeToWatch": {
+            "favMovies": [
+                "The Shawshank Redemption",
+                "The Godfather",
+                "The Dark Knight"
+            ],
+            "favSongs": ["Bohemian Rhapsody", "Imagine", "Hotel California"],
+            "favWebSeries": [
+                "Breaking Bad",
+                "Game of Thrones",
+                "Stranger Things"
+            ]
+        },
+        "address": {
+            "street": "777 Oak Street",
+            "city": "Citytown",
+            "state": "CA",
+            "zip": "54321"
+        },
+        "hobbies": ["Singing", "Dancing", "Traveling"],
+        "friends": [
+            {
+                "name": "Liam",
+                "age": 30,
+                "profession": "Doctor"
+            },
+            {
+                "name": "Avery",
+                "age": 28,
+                "profession": "Teacher"
+            }
+        ]
+    },
+    {
+        "firstName": "Evelyn",
+        "lastName": "King",
+        "fullName": "Evelyn King",
+        "age": 31,
+        "cars": [],
+        "likeToWatch": {
+            "favMovies": ["The Godfather", "Forrest Gump", "The Dark Knight"],
+            "favSongs": ["Yesterday", "Let It Be", "Hey Jude"],
+            "favWebSeries": ["Friends", "The Office", "Stranger Things"]
+        },
+        "address": {
+            "street": "888 Elm Street",
+            "city": "Downtown",
+            "state": "OR",
+            "zip": "56473"
+        },
+        "hobbies": ["Reading", "Painting", "Traveling"],
+        "friends": [
+            {
+                "name": "Logan",
+                "age": 30,
+                "profession": "Artist"
+            },
+            {
+                "name": "Riley",
+                "age": 32,
+                "profession": "Designer"
+            }
+        ]
+    },
+    {
+        "firstName": "Aiden",
+        "lastName": "Scott",
+        "fullName": "Aiden Scott",
+        "age": 28,
+        "cars": [
+            {
+                "name": "Chevrolet",
+                "color": "Black",
+                "model": "Silverado",
+                "year": 2021
+            }
+        ],
+        "likeToWatch": {
+            "favMovies": ["The Avengers", "Titanic", "Avatar"],
+            "favSongs": ["Shape of You", "Dance Monkey", "Blinding Lights"],
+            "favWebSeries": ["Friends", "The Office", "Stranger Things"]
+        },
+        "address": {
+            "street": "999 Pine Street",
+            "city": "Uptown",
+            "state": "WA",
+            "zip": "98765"
+        },
+        "hobbies": ["Gaming", "Cooking", "Photography"],
+        "friends": [
+            {
+                "name": "Zoe",
+                "age": 27,
+                "profession": "Chef"
+            },
+            {
+                "name": "Mason",
+                "age": 29,
+                "profession": "Teacher"
+            }
+        ]
+    },
+    {
+        "firstName": "Scarlett",
+        "lastName": "Baker",
+        "fullName": "Scarlett Baker",
+        "age": 30,
+        "cars": [
+            {
+                "name": "Tesla",
+                "color": "Red",
+                "model": "Model Y",
+                "year": 2022
+            }
+        ],
+        "likeToWatch": {
+            "favMovies": [
+                "The Shawshank Redemption",
+                "The Godfather",
+                "The Dark Knight"
+            ],
+            "favSongs": ["Bohemian Rhapsody", "Imagine", "Hotel California"],
+            "favWebSeries": [
+                "Breaking Bad",
+                "Game of Thrones",
+                "Stranger Things"
+            ]
+        },
+        "address": {
+            "street": "111 Walnut Street",
+            "city": "Hometown",
+            "state": "MI",
+            "zip": "10101"
+        },
+        "hobbies": ["Singing", "Dancing", "Cooking"],
+        "friends": [
+            {
+                "name": "Lucas",
+                "age": 31,
+                "profession": "Musician"
+            },
+            {
+                "name": "Nora",
+                "age": 29,
+                "profession": "Artist"
+            }
+        ]
+    },
+    {
+        "firstName": "Henry",
+        "lastName": "Young",
+        "fullName": "Henry Young",
+        "age": 32,
+        "cars": [
+            {
+                "name": "Honda",
+                "color": "Blue",
+                "model": "Accord",
+                "year": 2021
+            }
+        ],
+        "likeToWatch": {
+            "favMovies": [
+                "Inception",
+                "The Dark Knight",
+                "The Shawshank Redemption"
+            ],
+            "favSongs": ["Bohemian Rhapsody", "Imagine", "Stairway to Heaven"],
+            "favWebSeries": [
+                "Breaking Bad",
+                "Game of Thrones",
+                "Stranger Things"
+            ]
+        },
+        "address": {
+            "street": "222 Cedar Street",
+            "city": "Beachville",
+            "state": "CA",
+            "zip": "54321"
+        },
+        "hobbies": ["Golfing", "Reading", "Traveling"],
+        "friends": [
+            {
+                "name": "Ella",
+                "age": 33,
+                "profession": "Doctor"
+            },
+            {
+                "name": "Jack",
+                "age": 31,
+                "profession": "Engineer"
+            }
+        ]
+    },
+    {
+        "firstName": "Mason",
+        "lastName": "Gonzalez",
+        "fullName": "Mason Gonzalez",
+        "age": 29,
+        "cars": [
+            {
+                "name": "Toyota",
+                "color": "Silver",
+                "model": "RAV4",
+                "year": 2020
+            }
+        ],
+        "likeToWatch": {
+            "favMovies": ["The Godfather", "Forrest Gump", "The Dark Knight"],
+            "favSongs": ["Yesterday", "Let It Be", "Hey Jude"],
+            "favWebSeries": ["Friends", "The Office", "Stranger Things"]
+        },
+        "address": {
+            "street": "777 Elm Street",
+            "city": "Citytown",
+            "state": "CA",
+            "zip": "54321"
+        },
+        "hobbies": ["Hiking", "Cooking", "Photography"],
+        "friends": [
+            {
+                "name": "Emma",
+                "age": 30,
+                "profession": "Teacher"
+            },
+            {
+                "name": "Liam",
+                "age": 28,
+                "profession": "Teacher"
+            }
+        ]
+    },
+    [
+        {
+            "firstName": "Ethan",
+            "lastName": "Collins",
+            "fullName": "Ethan Collins",
+            "age": 33,
+            "cars": [
+                {
+                    "name": "Ford",
+                    "color": "Gray",
+                    "model": "Escape",
+                    "year": 2018
+                }
+            ],
+            "likeToWatch": {
+                "favMovies": [
+                    "The Godfather",
+                    "Forrest Gump",
+                    "The Dark Knight"
+                ],
+                "favSongs": ["Yesterday", "Let It Be", "Hey Jude"],
+                "favWebSeries": ["Friends", "The Office", "Stranger Things"]
+            },
+            "address": {
+                "street": "555 Walnut Street",
+                "city": "Hometown",
+                "state": "MI",
+                "zip": "10101"
+            },
+            "hobbies": ["Gaming", "Reading", "Traveling"],
+            "friends": [
+                {
+                    "name": "Ava",
+                    "age": 32,
+                    "profession": "Engineer"
+                },
+                {
+                    "name": "Noah",
+                    "age": 34,
+                    "profession": "Doctor"
+                }
+            ]
+        },
+        {
+            "firstName": "Ella",
+            "lastName": "Richardson",
+            "fullName": "Ella Richardson",
+            "age": 30,
+            "cars": [],
+            "likeToWatch": {
+                "favMovies": [
+                    "The Shawshank Redemption",
+                    "The Godfather",
+                    "The Dark Knight"
+                ],
+                "favSongs": [
+                    "Bohemian Rhapsody",
+                    "Imagine",
+                    "Hotel California"
+                ],
+                "favWebSeries": [
+                    "Breaking Bad",
+                    "Game of Thrones",
+                    "Stranger Things"
+                ]
+            },
+            "address": {
+                "street": "888 Cedar Street",
+                "city": "Downtown",
+                "state": "OR",
+                "zip": "56473"
+            },
+            "hobbies": ["Painting", "Cooking", "Traveling"],
+            "friends": [
+                {
+                    "name": "Liam",
+                    "age": 31,
+                    "profession": "Designer"
+                },
+                {
+                    "name": "Olivia",
+                    "age": 29,
+                    "profession": "Artist"
+                }
+            ]
+        }
+    ]
 ]
